@@ -1,0 +1,1 @@
+This project is a part of The Odin Project, an open source tutorial for web development. This project is supposed to help practice using different features of html.
